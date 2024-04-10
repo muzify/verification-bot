@@ -1,9 +1,9 @@
 module.exports = {
 	bot: {
-		token: 'B0T.T0K3N.H3R3',
+		token: 'MTIyNzY3MjA5MjMxNzcxNjU5Mg.GyDKuE.nzNMen3jAv5euTyHpDbj29Fba5duMJ5G1zsX3o',
 		prefix: '!',
-		clientSecret: 'CLIENT_SECRET',
-		clientID: 'CLIENT_ID'
+		clientSecret: 'WRCHB8hlWGZ1zKRnbPSUccpqXIHrY-hM',
+		clientID: '1227672092317716592'
 	},
 	website: {
 		protocol: 'https://',
