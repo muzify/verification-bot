@@ -7,7 +7,7 @@ module.exports = {
 	},
 	website: {
 		protocol: 'https://',
-		domain: 'domain.name',
+		domain: 'verification-bot-one.vercel.app/',
 		port: 8080,
 		captcha: {
 			sitekey: 'SITE_KEY',
